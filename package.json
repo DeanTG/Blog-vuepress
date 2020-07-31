@@ -1,0 +1,23 @@
+{
+  "name": "Blog",
+  "version": "1.0.0",
+  "description": "Dean's blog",
+  "main": "index.js",
+  "repository": "http://deantg.github.io",
+  "author": "Dean",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/plugin-medium-zoom": "1.0.0-alpha.0",
+    "@vuepress/plugin-pwa": "1.0.0-alpha.3",
+    "vuepress": "1.0.3",
+    "vuepress-plugin-flowchart": "1.4.3",
+    "vuepress-theme-reco": "1.0.8-alpha.3"
+  },
+  "devDependencies": {
+    "vuepress-plugin-comment": "^0.7.3"
+  }
+}

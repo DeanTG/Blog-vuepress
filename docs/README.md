@@ -16,3 +16,5 @@ features:
 - title: What am I gona do？
   details: Work? Struggle? Or go to a destination I don't know?
 ---
+
+<box/>
